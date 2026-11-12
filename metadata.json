@@ -1,0 +1,8 @@
+{
+  "name": "Remix Omni Video Draft Studio",
+  "description": "The Draft Room allows you to generate 4 draft variations in 360p, varying one thing at a time and compare them side by side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

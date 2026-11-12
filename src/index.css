@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: 'Syne', 'Unbounded', 'Archivo Black', -apple-system, sans-serif;
+  }
+}
